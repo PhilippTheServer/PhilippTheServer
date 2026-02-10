@@ -9,7 +9,7 @@
 I like building infrastructure, mostly so I can break it again.
 
 I'm an IT Security bachelor's student and Head of Administration & IT.
-I run self-hosted systems, container platforms, and internal services — usually at a scale where things break for no reason and I have to fix them.
+I run self-hosted systems, container platforms, and internal services — usually at a scale.
 
 Most of my time goes into:
 - Running container-heavy infrastructures
@@ -42,7 +42,7 @@ Applications that I maintain include:
 
 <div align="center">
 
-## Featured Project: Internal Operations Platform
+### Featured Project: Internal Operations Platform
 
 </div>
 
@@ -54,24 +54,25 @@ I designed and maintain our company's internal platform — a full-stack applica
 
 <div align="center">
 
-## Technical Expertise
+### Skill Set
 
 </div>
 
 ### Infrastructure & Automation
 I work across the full infrastructure lifecycle — from architecture design to deployment and day-2 operations.
 
-**Container Orchestration:** Docker (expert), Kubernetes  
-**Infrastructure as Code:** Ansible, Terraform, Kubernetes manifests  
-**CI/CD:** GitHub Actions, ArgoCD, Jenkins, Portainer  
-**Storage & Networking:** Ceph distributed storage, WireGuard, Bind9 DNS
+**Container Orchestration:** Docker (expert) · Kubernetes  
+**Infrastructure as Code:** Ansible · Terraform · Kubernetes manifests  
+**CI/CD:** GitHub Actions · ArgoCD · Jenkins · Portainer  
+**Storage & Networking:** Ceph distributed storage · WireGuard · Bind9 DNS
 
 ### Software Development
 I build internal services, APIs, and tooling to support infrastructure operations.
 
-**Backend:** Python (FastAPI), C/C++  
-**Frontend:** Angular (dashboards, management interfaces, internal tools)  
-**Systems:** Linux expert (Debian, Arch), bare-metal & virtualized environments
+**Backend:** Python · C/C++  
+**Frontend:** Angular  
+**Systems:** Linux (Debain · Arch)  
+**Automations/Pipelines:** Ansible · Terraform · Bash · Python · C/C++
 
 Current side projects include an AI companion and various CLI tools for infrastructure management.
 
@@ -81,7 +82,7 @@ Current side projects include an AI companion and various CLI tools for infrastr
 
 <div align="center">
 
-## Leadership & Community
+## Community
 
 </div>
 
@@ -98,7 +99,7 @@ I lead a small developer team and coordinate open-source initiatives. Once a yea
 
 I'm currently focused on **large-scale infrastructure design**. I want to learn how to design and build data centers from scratch. 
 
-*(Yes, I want to build a huge datacenter — and no, I have no idea how much of a pain it is going to be. But it is going to be a fun challenge.)*
+*(Yes, I want to build a huge datacenter — and no, I have no idea how much of a pain it is going to be. But it is going to be a fun challenge anyways.)*
 
 ---
 
