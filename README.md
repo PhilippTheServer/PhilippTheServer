@@ -9,7 +9,7 @@
 I like building infrastructure, mostly so I can break it again.
 
 I'm an IT Security bachelor's student and Head of Administration & IT.
-I run self-hosted systems, container platforms, and internal services — usually at a scale.
+I run self-hosted systems, container platforms, and internal services — usually at scale.
 
 Most of my time goes into:
 - Running container-heavy infrastructures
