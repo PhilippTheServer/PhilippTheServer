@@ -8,7 +8,7 @@
 
 I like building infrastructure, mostly so I can break it again.
 
-I'm an IT Security bachelor's student and Head of Administration & IT.
+I'm an IT Security bachelor's student and CTO at Nerd Force1 UG.
 I run self-hosted systems, container platforms, and internal services — usually at scale.
 
 Most of my time goes into:
@@ -23,13 +23,13 @@ Most of my time goes into:
 
 </div>
 
-I'm Head of Administration & IT with hands-on experience in designing, deploying, and operating production infrastructure since 2022. My work spans from bare-metal server architecture to container orchestration, automation pipelines and full-stack internal tooling.
+I'm CTO at Nerd Force1 UG (AI-Gruppe), with hands-on experience in designing, deploying, and operating production infrastructure since 2022. My work spans from bare-metal server architecture to container orchestration, automation pipelines and full-stack internal tooling.
 
 **Current Infrastructure:**
 - 🐳 Docker standalone cluster managing:
 - ☸️ Kubernetes cluster for orchestrated workloads
 - 💾 Ceph storage cluster for distributed data
-- 🌐 Internal network architecture (WireGuard VPN, Bind9 DNS)
+- 🌐 Internal network architecture (NetBird overlay mesh, Bind9 DNS)
 
 I specialize in **containerization** and **infrastructure automation**, building scalable systems.
 
@@ -48,7 +48,7 @@ Applications that I maintain include:
 
 I designed and maintain our company's internal platform — a full-stack application that centralized operations and replaced multiple external tools:
 
-**Features:** Internal messenger · Time tracking · Ticket system · Accounting · Docker registry frontend · DNS management · WireGuard VPN management · Hosting orchestration
+**Features:** Internal messenger · Time tracking · Ticket system · Accounting · Docker registry frontend · DNS management · VPN management · Hosting orchestration
 
 **Tech Stack:** Angular frontend · FastAPI backend · MySQL/InfluxDB · Celery workers
 
@@ -64,7 +64,7 @@ I work across the full infrastructure lifecycle — from architecture design to 
 **Container Orchestration:** Docker (expert) · Kubernetes  
 **Infrastructure as Code:** Ansible · Terraform · Kubernetes manifests  
 **CI/CD:** GitHub Actions · ArgoCD · Jenkins · Portainer  
-**Storage & Networking:** Ceph distributed storage · WireGuard · Bind9 DNS
+**Storage & Networking:** Ceph distributed storage · NetBird · Bind9 DNS
 
 ### Software Development
 I build internal services, APIs, and tooling to support infrastructure operations.
@@ -79,6 +79,27 @@ Current side projects include an AI companion and various CLI tools for infrastr
 <p align="center">
   <img src="./assets/2banner.gif" alt=" banner" />
 </p>
+
+<div align="center">
+
+## Writing
+
+</div>
+
+I write things down after learning them the expensive way — mostly infrastructure, mostly
+after something broke. It all lives at **[philipptheserver.com](https://philipptheserver.com)**.
+
+- [A host you cannot rebuild is not running](https://philipptheserver.com/posts/infrastructure-as-code/) — infrastructure as code, and the discipline that makes it mean something
+- [Kubernetes, and when it earns its place](https://philipptheserver.com/posts/kubernetes/) — not a better Docker, a different bargain
+- [Ceph without a vendor's price list](https://philipptheserver.com/posts/ceph/) — storage you can afford, and the four things that will bite you
+- [Alert on symptoms, not on metrics](https://philipptheserver.com/posts/observatory-monitoring/) — the outages nobody catches are the ones where every metric is green
+- [An overlay mesh, and the DNS trap underneath it](https://philipptheserver.com/posts/netbird-vpn/) — NetBird, and how internal names quietly resolve somewhere else
+- [One login instead of twelve](https://philipptheserver.com/posts/keycloak/) — self-hosted identity, argued from offboarding
+- [Running the models yourself](https://philipptheserver.com/posts/atlas-agentic-ops/) — self-hosted inference, honest benchmarks, agents near production
+- [OpenTaberna, and writing the wiki first](https://philipptheserver.com/posts/opentaberna/) — documentation as a repository
+
+There is an [Atom feed](https://philipptheserver.com/feed.xml), and the whole site as one
+file for language models at [/llms.txt](https://philipptheserver.com/llms.txt).
 
 <div align="center">
 
